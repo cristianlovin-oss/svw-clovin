@@ -1,0 +1,39 @@
+LUMORA ROBOTICS - PRODUCT DATA SHEET (INTERNAL / CONFIDENTIAL)
+Product: LumaBot X2 autonomous mobile robot (AMR)
+Document ID: PDS-X2-0426 - Last updated 14 April 2026
+
+1. OVERVIEW
+The LumaBot X2 is Lumora's second-generation autonomous mobile robot for moving totes, carts and pallets in warehouses and hospitals. It replaces the LumaBot X1, which reached end of sale on 31 December 2025. X1 support continues until 31 December 2028.
+
+2. TECHNICAL SPECIFICATIONS
+- Payload: 180 kg (top module), towing capacity 450 kg with the TowHook accessory.
+- Maximum speed: 2.2 m/s (limited to 1.2 m/s in zones marked "hospital mode").
+- Battery: 48 V LiFePO4, 2.4 kWh.
+- Runtime: 9.5 hours at typical load; 7 hours at full payload.
+- Charging: 55 minutes from 10% to 90% on the DockStation 3 charger. Opportunity charging supported.
+- Navigation: 2 x 360-degree lidar, 4 x depth cameras, natural-feature navigation (no floor markers needed).
+- Positioning accuracy: +/- 10 mm at docking stations.
+- Dimensions: 980 x 640 x 310 mm. Weight: 112 kg.
+- Ingress protection: IP54.
+- Operating temperature: 0 to 45 degrees Celsius. A cold-storage variant (X2-C) operates down to -25 degrees Celsius.
+- Safety: certified to ISO 3691-4 and ANSI/RIA R15.08-1.
+
+3. SOFTWARE
+- Fleet software: Lumora FleetOS. Current release: FleetOS 4.3 (released 2 March 2026).
+- FleetOS 4.3 highlights: elevator integration via the LiftLink API, multi-site dashboard, and a 30% reduction in route-planning time compared with 4.2.
+- Maximum fleet size per FleetOS server: 250 robots.
+- Integrations: REST API, MQTT, and native connectors for SAP EWM and Manhattan WMS.
+
+4. PRICING (LIST PRICES, EUR, EXCLUDING VAT)
+- LumaBot X2 robot: EUR 38,500 per unit.
+- LumaBot X2-C (cold storage): EUR 46,900 per unit.
+- DockStation 3 charger: EUR 3,200 per unit (recommended ratio: 1 charger per 4 robots).
+- FleetOS licence: EUR 1,100 per robot per year (includes software updates).
+- Volume discounts: 5% for 10 to 24 units, 9% for 25 to 49 units, 12% for 50 units or more. Larger discounts require approval from the VP Sales.
+
+5. WARRANTY
+- Standard warranty: 24 months on robot hardware, 12 months on batteries.
+- Extended warranty: up to 60 months, sold as part of the Premium or Enterprise support plans.
+
+6. LEAD TIMES
+- Standard lead time: 8 weeks from purchase order for orders up to 24 units, 12 weeks for larger orders.

@@ -1,0 +1,39 @@
+LUMORA ROBOTICS - CUSTOMER SUPPORT PLANS AND SERVICE LEVELS (INTERNAL)
+Document ID: CS-SLA-2026 - Effective 1 January 2026
+Owner: Customer Success team
+
+1. SUPPORT PLANS
+Lumora offers three support plans for LumaBot fleets:
+
+STANDARD (included with every purchase for the first 12 months)
+- Support hours: Monday to Friday, 08:00 to 18:00 CET.
+- Channels: support portal and email.
+- Response time: Priority 1 (fleet down) within 4 business hours; Priority 2 (degraded) within 1 business day; Priority 3 (question) within 3 business days.
+- On-site visits: billed at EUR 1,250 per day plus travel.
+
+PREMIUM (EUR 2,400 per robot per year)
+- Support hours: 24/7 for Priority 1, business hours for others.
+- Channels: support portal, email and phone.
+- Response time: P1 within 1 hour; P2 within 4 hours; P3 within 1 business day.
+- Includes 2 on-site preventive maintenance visits per year.
+- Includes extended hardware warranty up to 36 months.
+
+ENTERPRISE (custom pricing, minimum fleet of 50 robots)
+- Support hours: 24/7 for all priorities.
+- Dedicated Technical Account Manager (TAM).
+- Response time: P1 within 30 minutes; P2 within 2 hours; P3 within 8 hours.
+- Uptime commitment: 99.5% fleet availability per calendar month, measured by FleetOS.
+- Service credits if the uptime commitment is missed: 5% of the monthly support fee for each 0.5% below target, up to a maximum of 25%.
+- Includes extended hardware warranty up to 60 months and quarterly business reviews.
+
+2. PRIORITY DEFINITIONS
+- P1 (Critical): more than 30% of the fleet is unable to operate, or any safety-related incident.
+- P2 (High): reduced fleet performance or a single robot down with no workaround.
+- P3 (Normal): questions, configuration requests, minor bugs with a workaround.
+
+3. ESCALATION PATH
+Support engineer -> Support team lead (after 2 hours without progress on P1) -> Head of Customer Success (after 6 hours) -> CTO (after 24 hours).
+
+4. SPARE PARTS
+- Premium and Enterprise customers receive critical spare parts within 2 business days in the EU and 5 business days elsewhere.
+- Standard customers receive spare parts within 10 business days.

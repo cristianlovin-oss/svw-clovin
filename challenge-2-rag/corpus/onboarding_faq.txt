@@ -1,0 +1,29 @@
+LUMORA ROBOTICS - NEW EMPLOYEE ONBOARDING FAQ (INTERNAL)
+Last updated: 3 February 2026
+
+Q: What happens in my first week?
+A: Day 1 starts at 09:30 with a welcome session run by People & Culture. You receive your laptop, badge and accounts on day 1. Days 2 to 4 are team onboarding with your onboarding buddy. On day 5 you join the "Robot Floor Tour" at the Munich test warehouse or, for Cluj-Napoca staff, a live virtual tour.
+
+Q: Who is my onboarding buddy?
+A: Every new joiner is paired with a buddy from a different team for their first 90 days. Your manager introduces your buddy before your start date.
+
+Q: When is the probation period?
+A: The probation period is 6 months. There is a check-in with your manager after 30, 90 and 150 days.
+
+Q: When do I get paid?
+A: Salaries are paid on the 25th of each month. If the 25th is a weekend or public holiday, salaries are paid on the previous working day.
+
+Q: Which tools will I use?
+A: Chat: Lumora Chat. Email and calendar: Google Workspace. Expenses: Spendly. Password manager: VaultBox. HR portal: "PeoplePlace". Engineering tickets: Jira. VPN: LumoConnect.
+
+Q: How do I book a desk in the office?
+A: Use the "DeskHop" app. Desks can be booked up to 14 days in advance. Tuesday (anchor day) bookings open every Monday at 08:00.
+
+Q: Is there a company pension or other benefits?
+A: Lumora contributes 5% of base salary to the company pension plan, and matches employee contributions of up to a further 3%. Other benefits: subsidised public transport ticket (EUR 49 per month covered in Germany), gym membership allowance of EUR 40 per month, and free lunch in the office on Tuesdays.
+
+Q: Who do I contact for IT problems?
+A: Open a ticket in the IT portal or message #it-help. Urgent issues during business hours: call extension 2000.
+
+Q: Is there an employee referral bonus?
+A: Yes. EUR 2,500 for engineering hires and EUR 1,500 for all other roles, paid after the new hire passes probation.

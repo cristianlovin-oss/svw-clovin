@@ -1,0 +1,38 @@
+LUMORA ROBOTICS - INFORMATION SECURITY POLICY (INTERNAL)
+Policy ID: SEC-001 - Version 4.0 - Approved by the CISO on 10 January 2026
+
+1. SCOPE
+This policy applies to all employees, contractors and interns who use Lumora systems, devices or data.
+
+2. ACCOUNTS AND PASSWORDS
+- Minimum password length: 14 characters. Passphrases are encouraged.
+- Passwords must not be reused across systems and must be stored only in the company password manager ("VaultBox").
+- Multi-factor authentication (MFA) is mandatory for all accounts. Hardware security keys are mandatory for administrators and for anyone with production access.
+- Accounts are locked after 8 failed login attempts.
+
+3. DEVICES
+- All laptops must use full-disk encryption and the managed endpoint protection agent.
+- Screens must lock automatically after 5 minutes of inactivity.
+- Personal devices may access email and chat only through the managed mobile app, never through a browser.
+- USB storage devices are blocked by default. Exceptions require an IT ticket and CISO approval.
+
+4. NETWORK ACCESS
+- Remote access to internal systems requires the "LumoConnect" VPN.
+- Public Wi-Fi may be used only with the VPN switched on.
+- Robot fleet networks at customer sites are isolated and must never be connected to the corporate network.
+
+5. DATA CLASSIFICATION
+- Public: marketing material, published datasheets.
+- Internal: handbooks, internal processes (this document).
+- Confidential: pricing, customer contracts, roadmaps, source code.
+- Restricted: personal data, security keys, customer site maps.
+Confidential and Restricted data must not be pasted into external AI tools unless the tool is on the approved list maintained by IT.
+
+6. INCIDENT REPORTING
+- Report any suspected security incident (phishing, lost device, malware, data leak) within 1 hour of discovery.
+- Report via the #security-incidents chat channel or email security@lumora.example. Outside business hours, call the on-call security line at extension 4444.
+- Lost or stolen devices must also be reported to IT so they can be wiped remotely.
+
+7. TRAINING
+- Security awareness training is mandatory within the first 2 weeks of employment and then once every year.
+- Phishing simulations run every quarter. Employees who click a simulated phishing link must complete a 15-minute refresher module.
