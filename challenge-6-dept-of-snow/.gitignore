@@ -1,0 +1,16 @@
+# Secrets / local config (contains the Maps API key)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# ADK local artifacts
+.adk/
+
+# Deployment logs (may include project details)
+deploy/deploy.log
+reports/raw_*.log

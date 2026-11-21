@@ -1,0 +1,31 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - AVALANCHE SAFETY PROCEDURES
+Procedure number: ADS-SAF-420 | Revision 5 | Effective 1 October 2026
+Owner: Avalanche Program Manager | Fictional document created for training purposes.
+
+1. AVALANCHE-EXPOSED ROUTES
+ADS monitors avalanche paths on these segments:
+  - Seward Highway, Milepost 75 to 90 (Turnagain Pass and Bird to Girdwood).
+  - Richardson Highway, Thompson Pass (Milepost 18 to 37).
+  - Glenn Highway near Sheep Mountain (Milepost 110 to 115).
+  - Egan Drive approaches in Juneau below Mount Juneau (seasonal monitoring).
+
+2. DANGER RATINGS
+ADS uses the North American Public Avalanche Danger Scale (Low, Moderate, Considerable, High, Extreme)
+as published by the regional avalanche center.
+  - CONSIDERABLE: no stopping in marked avalanche zones; crews work in the zone only with a spotter.
+  - HIGH: the segment is closed (see ADS-OPS-150) and avalanche control is scheduled.
+  - EXTREME: the segment is closed and no ADS personnel enter the runout zones.
+
+3. AVALANCHE CONTROL
+  - Control work is carried out only by certified ADS avalanche technicians.
+  - Explosives handling follows ADS-SAF-425; no other staff may handle explosives.
+  - Control missions require a closure of both directions, typically up to 2 hours.
+
+4. CREW SAFETY
+  - Every crew member working in an avalanche zone carries a transceiver, probe and shovel.
+  - Plows do not stop in marked avalanche zones when the danger is CONSIDERABLE or higher.
+  - If a crew member is caught in an avalanche, call 911 and the Storm Duty Officer immediately.
+
+5. PUBLIC INFORMATION
+  - ADS does not give backcountry travel advice. The public should be referred to the regional
+    avalanche center forecast and to 511 for road status.

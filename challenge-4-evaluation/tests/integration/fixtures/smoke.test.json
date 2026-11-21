@@ -1,0 +1,43 @@
+{
+  "eval_set_id": "customer_service_smoke",
+  "name": "Customer service smoke test",
+  "description": "Three quick cases for AgentEvaluator in pytest.",
+  "eval_cases": [
+    {
+      "eval_id": "smoke_return_window",
+      "conversation": [
+        {
+          "invocation_id": "smoke-1",
+          "user_content": {"role": "user", "parts": [{"text": "How long do I have to return unused items?"}]},
+          "final_response": {"role": "model", "parts": [{"text": "Unused items in original condition with tags can be returned within 60 days of delivery."}]},
+          "intermediate_data": {"tool_uses": [], "intermediate_responses": []}
+        }
+      ],
+      "session_input": {"app_name": "customer_service_agent", "user_id": "test_user", "state": {}}
+    },
+    {
+      "eval_id": "smoke_gift_cards",
+      "conversation": [
+        {
+          "invocation_id": "smoke-2",
+          "user_content": {"role": "user", "parts": [{"text": "Do gift cards expire?"}]},
+          "final_response": {"role": "model", "parts": [{"text": "Summit Trail gift cards never expire, but they cannot be redeemed for cash."}]},
+          "intermediate_data": {"tool_uses": [], "intermediate_responses": []}
+        }
+      ],
+      "session_input": {"app_name": "customer_service_agent", "user_id": "test_user", "state": {}}
+    },
+    {
+      "eval_id": "smoke_no_stores",
+      "conversation": [
+        {
+          "invocation_id": "smoke-3",
+          "user_content": {"role": "user", "parts": [{"text": "Where is your nearest store?"}]},
+          "final_response": {"role": "model", "parts": [{"text": "Summit Trail Outfitters is online-only and has no retail stores. Contact support at support@summittrail.example or 1-800-555-0142."}]},
+          "intermediate_data": {"tool_uses": [], "intermediate_responses": []}
+        }
+      ],
+      "session_input": {"app_name": "customer_service_agent", "user_id": "test_user", "state": {}}
+    }
+  ]
+}

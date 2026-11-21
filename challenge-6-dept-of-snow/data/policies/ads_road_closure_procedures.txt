@@ -1,0 +1,38 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - ROAD CLOSURE AND REOPENING PROCEDURES
+Procedure number: ADS-OPS-150 | Revision 3 | Effective 1 October 2026
+Owner: Director of Operations | Fictional document created for training purposes.
+
+1. CLOSURE CRITERIA
+A road segment is closed when ANY of the following applies:
+  - Visibility is below 1/4 mile due to blowing snow for more than 30 minutes.
+  - Avalanche danger is rated HIGH or EXTREME on the segment, or an avalanche has reached the road.
+  - Ice or drifting makes the segment impassable for a plow with a wing blade.
+  - A crash or stranded vehicles block all lanes and State Troopers request a closure.
+  - Scheduled avalanche control work (closures of up to 2 hours, announced 24 hours ahead when possible).
+
+2. WHO CAN CLOSE A ROAD
+  - P1 routes: the Storm Duty Officer, or Alaska State Troopers for life-safety emergencies.
+  - P2 to P4 routes: the Regional Operations Supervisor.
+  - Every closure must have a closure ID, start time, reason, and an estimated reopening time.
+
+3. NOTIFICATION
+  - Post the closure to 511 traveler information within 15 minutes.
+  - Notify State Troopers dispatch, affected municipalities, and the Alaska Railroad if the
+    closure is within 1 mile of a rail crossing.
+  - Update the estimated reopening time at least every 2 hours.
+
+4. REOPENING CHECKLIST
+  1) The closure condition has ended (visibility, avalanche danger reduced to CONSIDERABLE or lower,
+     debris cleared).
+  2) At least one full plow pass and treatment in each direction.
+  3) A field supervisor has driven the segment and approved reopening.
+  4) Post the reopening to 511 within 15 minutes.
+
+5. PILOT CARS AND CONVOYS
+  - When a segment is passable but hazardous, ADS may run pilot-car convoys instead of a full
+    closure. Convoys leave every 30 minutes and are limited to 25 vehicles.
+  - Vehicles without adequate tires (studded or winter-rated) may be turned back.
+
+6. PUBLIC GUIDANCE DURING CLOSURES
+  - ADS staff never advise drivers to use unmaintained bypass roads.
+  - Questions about specific trips should be referred to 511 (dial 511 or visit 511.alaska.example).

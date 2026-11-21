@@ -1,0 +1,53 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - SNOW AND ICE REMOVAL PRIORITY POLICY
+Policy number: ADS-OPS-100 | Revision 6 | Effective 1 October 2026
+Owner: Director of Operations | Fictional document created for training purposes.
+
+1. PURPOSE
+This policy sets the order in which ADS clears snow and ice from state-maintained roads and the
+service levels the public can expect during and after a storm.
+
+2. ROAD PRIORITY CLASSES
+Priority 1 (P1) - Critical routes
+  - Interstate-class highways and the primary routes between major population centers:
+    Glenn Highway, Seward Highway, Parks Highway, Richardson Highway, Sterling Highway, Egan Drive.
+  - All routes to hospitals, airports, fire stations and the ADS emergency operations center.
+  - Service level: continuous plowing and treatment during the storm. Bare or wet pavement in all
+    driving lanes within 4 hours after snowfall stops.
+Priority 2 (P2) - Arterials and collectors
+  - Major arterials, school bus routes and routes to public shelters.
+  - Service level: plowed at least every 8 hours during the storm. Passable in all lanes within
+    12 hours after snowfall stops.
+Priority 3 (P3) - Residential and low-volume roads
+  - Residential streets, cul-de-sacs, and low-volume rural roads.
+  - Service level: plowed after P1 and P2 routes are under control. Passable (one lane minimum)
+    within 48 hours after snowfall stops.
+Priority 4 (P4) - Seasonal and remote routes
+  - Dalton Highway north of Coldfoot, seasonal access roads, trailheads.
+  - Service level: best effort; may be closed for the duration of a Level 3 or Level 4 storm.
+
+3. WHEN PLOWING STARTS
+  - Plowing begins when 2 inches (5 cm) of new snow has accumulated on P1 routes, and 4 inches
+    (10 cm) on P2 and P3 routes.
+  - Anti-icing (pre-treatment with brine) starts up to 24 hours before a forecast storm on P1 and
+    P2 routes when pavement temperature is above 15 F (-9 C).
+  - Freezing rain on any priority route triggers immediate sanding regardless of accumulation.
+
+4. TREATMENT MATERIALS
+  - Salt brine and rock salt are used only when the pavement temperature is 15 F (-9 C) or warmer.
+  - Below 15 F, ADS uses sand mixed with up to 5% salt for traction. Below -10 F (-23 C), sand only.
+  - Treatment is reduced within 100 feet of designated salmon streams (see ADS-ENV-210).
+
+5. SHIFT AND COVERAGE
+  - During a declared storm (Level 2 or higher), P1 routes have 24-hour coverage in 12-hour shifts.
+  - An operator may not exceed 16 hours of plow time in any 24-hour period (see ADS-SAF-400).
+
+6. PRIORITY CHANGES DURING EMERGENCIES
+  - The Storm Duty Officer may temporarily raise any road to P1 for emergency access (for example
+    an evacuation route or a road to a mass-casualty incident).
+  - Every priority change must be logged in the operations system with the reason and time.
+
+7. PUBLIC EXPECTATIONS
+  - ADS does not plow private roads, private driveways or parking lots.
+  - Windrows (berms) left across driveways by plows are the property owner's responsibility,
+    except for residents registered in the Senior and Disability Berm Assistance program
+    (see ADS-PUB-300), whose berms are cleared within 24 hours after the street is plowed.

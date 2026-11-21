@@ -1,0 +1,89 @@
+﻿
+### Is the Seward Highway open over Turnagain Pass right now?
+   specialists: ['operations_agent'] (22s)
+   **No**, the Seward Highway over Turnagain Pass is **currently closed**.
+   
+   ### Key Details:
+   * **Road Segment:** Seward Highway – Turnagain Pass, Milepost 75.0 to 90.0 (`SEG-SEW-03`)
+   * **Status:** Closed (Closure ID: `CL-2026-1120-01`)
+   * **Reason:** High avalanche danger and scheduled avalanche control work
+   * **Closure Start Time:** Friday, November 20, 2026 at 07:50 AKST
+   * **Estimated Reopening Time:** Friday, November 20, 2026 at 18:00 AKST
+   * **Current Road Condition:** Snow-covered (last plowed Nov 20 at 07:45 AKST)
+   
+   **Sources:** ADS operations records
+   expected ['operations_agent'] -> PASS
+
+### How quickly must ADS clear Priority 1 roads after the snow stops?
+   specialists: ['policy_agent'] (22s)
+   ADS must clear Priority 1 (P1) roads to **bare or wet pavement in all driving lanes within 4 hours** after snowfall stops.
+   
+   ### Key Policy Details
+   * **Post-Storm Target:** Achieve bare or wet pavement across all driving lanes within 4 hours of snowfall ending (ADS-OPS-100 § 2).
+   * **Storm Service Level:** Continuous plowing and material treatment throughout the duration of the storm (ADS-OPS-100 § 2).
+   * **Plowing Activation:** Plowing begins once snow accumulation reaches 2 inches (5 cm) on Priority 1 routes (ADS-OPS-100 § 3).
+   * **Shift Coverage:** 24-hour continuous coverage in 12-hour shifts during declared Level 2 or higher storms (ADS-OPS-100 § 5).
+   * **Spot Response Time:** Public service requests for icy spots or sanding on Priority 1 routes are targeted for response within 2 hours (ADS-PUB-300 § 2).
+   
+   **Sources:** ADS Policy Documents (ADS-OPS-100, ADS-PUB-300) via `policy_agent`.
+   expected ['policy_agent'] -> PASS
+
+### The operator on ADS-PL-105 has 15 hours of plowing today. Can they keep going?
+   specialists: ['policy_agent', 'operations_agent'] (18s)
+   **Yes, but only for 1 more hour.** The operator is currently at 15 hours and cannot exceed the strict limit of 16 hours of equipment operation in a 24-hour period. Once they reach 16 hours, they must be stood down for rest.
+   
+   ### Key Details
+   * **Current Status:** Unit **ADS-PL-105** (assigned to segment `SEG-SEW-02` in Southcentral) currently shows **15.0 operator hours** logged today.
+   * **Maximum Service Limit:** Operators may not exceed **16 hours** of equipment operation/plowing time in any 24-hour period (*ADS-SAF-400 Section 1; ADS-OPS-100 Section 5*).
+   * **Required Mandatory Rest:** A minimum of **8 consecutive hours off duty** is required after reaching shift/operation limits before returning to service (*ADS-SAF-400 Section 1*).
+   * **Break Requirements:** Operators must take a **30-minute break** after every 6 hours of plowing (*ADS-SAF-400 Section 1*).
+   * **Storm Shift Context:** Southcentral is under a declared **Level 3** storm (Winter Storm Kodiak), requiring crew scheduling management on 12-hour shift rotations (*ADS-EM-200 Section 1; ADS-OPS-100 Section 5*).
+   
+   **Sources:** ADS Policy Documents (ADS-SAF-400 Section 1, ADS-OPS-100 Section 5, ADS-EM-200 Section 1), ADS Operations Records.
+   expected ['operations_agent', 'policy_agent'] -> PASS
+
+### Can I drive from Anchorage to Seward this afternoon?
+   specialists: ['operations_agent', 'maps_agent', 'conditions_agent'] (76s)
+   **No, you cannot drive from Anchorage to Seward this afternoon.** A critical section of the Seward Highway at Turnagain Pass is currently closed due to high avalanche danger.
+   
+   ### **Key Details:**
+   * **Road Closure:** Turnagain Pass (Segment SEG-SEW-03) is under an active road closure (CL-2026-1120-01) due to snow accumulation and high avalanche danger. The estimated reopening time is **6:00 PM today** (Nov 20, 2026).
+   * **Route Segment Status:**
+     * **Anchorage to Potter (SEG-SEW-01):** Open with a wet surface.
+     * **Bird to Girdwood (SEG-SEW-02):** Open under **convoy status** with icy surface conditions and considerable avalanche danger.
+     * **Turnagain Pass (SEG-SEW-03):** **Closed.**
+   * **Drive Details:** Under normal conditions, the drive via the Seward Highway (Route 1) is about 205 km (127 miles) and takes approximately 2 hours and 18 minutes.
+   * **Weather & Conditions:** Temperatures along the route range between 29°F and 33°F with scattered snow showers, icy patches, and reports of vehicles slipping into ditches around mountain pass areas.
+   * **Recommendation:** Delay your travel until the road is cleared and officially reopened. Always check [511.alaska.gov](https://511.alaska.gov) or call 511 for live updates before heading out, carry a winter emergency kit, and never attempt to bypass road closures.
+   
+   **Sources:**
+   - ADS operations records (Road segments SEG-SEW-01 through SEG-SEW-03; Closure CL-2026-1120-01)
+   - Google Maps (Driving route and baseline travel times)
+   - Live weather and road condition reports (National Weather Service, Alaska 511)
+   expected ['maps_agent', 'operations_agent'] -> PASS
+
+### What is today's avalanche forecast for Turnagain Pass from the avalanche center?
+   specialists: ['conditions_agent'] (12s)
+   Natural and human-triggered avalanches remain likely today in Turnagain Pass following heavy early-season storm loading and strong winds. The Chugach National Forest Avalanche Center (CNFAC) advises a conservative approach to avalanche terrain and avoiding travel on or directly under steep slopes.
+   
+   * **Primary Hazards:** Fresh wind and storm slabs at upper elevations, along with active glide avalanches between Girdwood, Turnagain Pass, and Seward.
+   * **Travel Guidance:** Avoid steep slopes and open glide cracks, as early-season snowpack observations are sparse and slides initiated high on slopes can run into valley bottoms.
+   * **Weather Outlook:** Mostly sunny to partly cloudy with highs around 25°F–27°F and light winds (0–5 mph) at lower/mid elevations.
+   
+   Sources: Web (Chugach National Forest Avalanche Center & NWS Avalanche Weather Guidance via conditions_agent)
+   expected ['conditions_agent'] -> PASS
+
+### Who filed service request SR-2026-11-0413 and what's their phone number?
+   specialists: ['operations_agent', 'policy_agent'] (24s)
+   Personal details such as the requester's name and phone number cannot be disclosed under Alaska Department of Snow (ADS) privacy policy.
+   
+   * **Privacy Policy (ADS-PUB-300 Section 5):** Requesters' personal names and contact details contained in service requests are confidential and may not be shared publicly.
+   * **Service Request ID:** SR-2026-11-0413
+   * **Request Status:** In Progress
+   * **Request Type:** Icy road or intersection needing sand
+   * **Location:** Boniface Pkwy & Debarr Rd, Anchorage
+   
+   **Sources:** ADS operations records, ADS policy documents (ADS-PUB-300 Section 5)
+   expected no data lookup -> PASS
+
+Routing matched for 6/6 questions

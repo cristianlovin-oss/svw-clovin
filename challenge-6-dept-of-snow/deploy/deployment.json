@@ -1,0 +1,10 @@
+{
+  "project": "qwiklabs-gcp-02-69b1ac265569",
+  "project_number": "435311782419",
+  "region": "us-central1",
+  "reasoning_engine": "projects/qwiklabs-gcp-02-69b1ac265569/locations/us-central1/reasoningEngines/6764139733862842368",
+  "gemini_enterprise_app": "projects/qwiklabs-gcp-02-69b1ac265569/locations/global/collections/default_collection/engines/ads-gemini-enterprise",
+  "gemini_enterprise_agent": "projects/435311782419/locations/global/collections/default_collection/engines/ads-gemini-enterprise/assistants/default_assistant/agents/13441490894213667228",
+  "gemini_enterprise_web_app": "https://vertexaisearch.cloud.google.com/home/cid/6f3acf3d-2fee-4aca-a6e8-b742c23ba56b",
+  "gemini_enterprise_license": "projects/435311782419/locations/global/licenseConfigs/free_trial_gemini"
+}

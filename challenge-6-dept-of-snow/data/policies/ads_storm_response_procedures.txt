@@ -1,0 +1,49 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - STORM RESPONSE PROCEDURES
+Procedure number: ADS-EM-200 | Revision 4 | Effective 1 October 2026
+Owner: Emergency Management Division | Fictional document created for training purposes.
+
+1. STORM LEVELS
+Level 1 - Routine winter weather
+  - Forecast of less than 6 inches in 24 hours, winds under 25 mph.
+  - Normal staffing. Regional supervisors manage operations.
+Level 2 - Significant storm
+  - Forecast of 6 to 12 inches in 24 hours, OR winds 25 to 40 mph with blowing snow,
+    OR a National Weather Service Winter Storm Warning for any ADS region.
+  - Actions: 24-hour P1 coverage, standby crews called in, public advisory issued.
+Level 3 - Severe storm
+  - Forecast of more than 12 inches in 24 hours, OR winds over 40 mph, OR a Blizzard Warning,
+    OR an Ice Storm Warning, OR avalanche danger rated HIGH on a P1 route.
+  - Actions: ADS Emergency Operations Center (EOC) activated, all crews on 12-hour shifts,
+    P3 and P4 routes may be suspended, coordination with State Troopers and local emergency managers.
+Level 4 - Emergency
+  - Conditions threaten life safety across a region: extended whiteout, multiple P1 closures,
+    or a Governor's disaster declaration.
+  - Actions: full EOC activation, mutual aid requested from neighboring regions, only P1 routes
+    and emergency access maintained.
+
+2. WHO DECLARES A STORM LEVEL
+  - Level 1 and Level 2: the Regional Operations Supervisor.
+  - Level 3: the Storm Duty Officer, after consulting the NWS forecast office.
+  - Level 4: the ADS Director (or designee).
+  - The declared level and its time must be entered in the operations system within 30 minutes.
+
+3. ACTIVATION CHECKLIST (LEVEL 2 AND ABOVE)
+  1) Confirm the forecast with the National Weather Service and record the warning type.
+  2) Check plow fleet availability; at least 85% of P1-assigned units must be in service.
+  3) Pre-treat P1 and P2 routes if pavement temperature allows (see ADS-OPS-100 section 4).
+  4) Issue a public advisory through the ADS website, 511 traveler information and social media.
+  5) Notify hospitals, school districts and the Alaska Railroad of expected impacts.
+  6) Schedule a storm briefing every 6 hours (Level 2) or every 3 hours (Level 3 and 4).
+
+4. COMMUNICATIONS
+  - Public updates at least every 4 hours during Level 2, every 2 hours during Level 3 and 4.
+  - All road closures and reopenings are posted to 511 within 15 minutes.
+  - Media requests go to the ADS Public Information Officer; field staff do not give interviews.
+
+5. STAND-DOWN
+  - The storm level is lowered when the NWS warning expires AND P1 routes meet their service level.
+  - An after-action report is due within 10 business days of any Level 3 or Level 4 storm.
+
+6. ESCALATION FOR STRANDED MOTORISTS
+  - Reports of stranded motorists are passed immediately to Alaska State Troopers (911).
+  - ADS crews may assist only when directed by Troopers and when it is safe to do so.

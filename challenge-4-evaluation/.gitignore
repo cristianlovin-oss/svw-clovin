@@ -1,0 +1,15 @@
+# Secrets / local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# ADK local artifacts (eval history is copied into reports/ by run_evaluation.py)
+.adk/
+
+# Raw run logs (large; the Markdown reports are the deliverable)
+reports/raw_*.log

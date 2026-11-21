@@ -1,0 +1,23 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - EMPLOYEE COLD WEATHER AND FATIGUE SAFETY
+Policy number: ADS-SAF-400 | Revision 3 | Effective 1 October 2026
+Owner: Safety Officer | Fictional document created for training purposes.
+
+1. HOURS OF SERVICE
+  - Maximum 16 hours of equipment operation in any 24-hour period.
+  - Minimum 8 consecutive hours off duty between shifts.
+  - A 30-minute break is required after every 6 hours of plowing.
+
+2. COLD EXPOSURE
+  - When the wind chill is -20 F (-29 C) or colder, outdoor manual work (shoveling, chaining) is limited
+    to 30 minutes followed by a warm-up break of at least 10 minutes.
+  - When the wind chill is -40 F (-40 C) or colder, only essential outdoor work is allowed, and always
+    in pairs.
+  - Every ADS vehicle carries a cold-weather survival kit (blanket, food, water, flares, first aid).
+
+3. EQUIPMENT CHECKS
+  - Pre-trip inspection before every shift: lights, plow hydraulics, spreader, tire chains, radio.
+  - A unit with a failed safety item is taken out of service until repaired.
+
+4. INCIDENT REPORTING
+  - Any crash, injury or near miss involving ADS equipment is reported to the supervisor immediately
+    and in writing within 24 hours.

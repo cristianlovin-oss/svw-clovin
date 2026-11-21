@@ -1,0 +1,35 @@
+ALASKA DEPARTMENT OF SNOW (ADS) - PUBLIC SERVICE REQUESTS POLICY
+Policy number: ADS-PUB-300 | Revision 2 | Effective 1 October 2026
+Owner: Customer Service Division | Fictional document created for training purposes.
+
+1. HOW THE PUBLIC CAN REPORT PROBLEMS
+  - Online form at ads.alaska.example/report, the ADS mobile app, or phone 1-907-555-0199 (24/7 during
+    declared storms; 7:00 AM to 7:00 PM otherwise).
+  - Emergencies (crashes, stranded or injured people) must be reported to 911, not to ADS.
+
+2. REQUEST TYPES AND TARGET RESPONSE TIMES
+  - Unplowed or missed road: reviewed within 4 hours during a storm; scheduled according to road
+    priority (ADS-OPS-100).
+  - Icy road or intersection needing sand: P1 within 2 hours, P2 within 6 hours, P3 within 24 hours.
+  - Blocked storm drain or flooding from melt: within 24 hours.
+  - Damaged mailbox caused by a plow: inspected within 5 business days.
+  - Damaged property (fence, landscaping, vehicle) caused by ADS equipment: claim reviewed within
+    30 days; claims must be filed within 60 days of the damage.
+  - Snow berm assistance (Senior and Disability Berm Assistance program): berm cleared within
+    24 hours after the street is plowed. Residents must register by 1 November each year; residents
+    must be 65 or older, or have a documented disability, and have no able-bodied adult in the household.
+
+3. MAILBOX DAMAGE
+  - ADS repairs or reimburses up to $75 for a standard mailbox, or $150 for a mailbox and post,
+    only when the mailbox was installed to USPS standards and was physically hit by ADS equipment.
+  - Damage from the weight of snow thrown by the plow is not covered.
+
+4. WHAT ADS DOES NOT DO
+  - Plow private driveways, private roads or parking lots.
+  - Remove snow from sidewalks in front of private property (the property owner's responsibility
+    under most municipal codes).
+  - Give legal, medical or insurance advice.
+
+5. PRIVACY
+  - Service request records contain the requester's name and contact details. Staff and automated
+    assistants may share the status of a request only with the requester, using the request ID.

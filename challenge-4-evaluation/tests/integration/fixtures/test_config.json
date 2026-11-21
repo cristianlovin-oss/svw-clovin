@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "policy_grounded_factuality": {
+      "threshold": 0.8
+    }
+  },
+  "custom_metrics": {
+    "policy_grounded_factuality": {
+      "code_config": {
+        "name": "customer_service_agent.metrics.policy_grounded_factuality"
+      }
+    }
+  }
+}
